@@ -1,0 +1,28 @@
+name: marcocheung
+favicon: null
+layout_spectrum: 0.44719319930300117
+typography_spectrum: 0.969933005515486
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8694512969814241
+  lightness: 0.37462607654742897
+  saturation: 0.611302470555529
+  rhythmicContrast: 0.7989300698973238
+purpose: []
