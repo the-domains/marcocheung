@@ -5,14 +5,18 @@ inNav: false
 inLanguage: null
 keywords: []
 description: This is the first page for marcocheung.com
-datePublished: '2016-08-12T08:20:50.446Z'
-dateModified: '2016-08-12T08:17:07.024Z'
+datePublished: '2016-08-12T08:21:55.717Z'
+dateModified: '2016-08-12T08:21:46.646Z'
 title: ''
 author: []
 via: {}
 sourcePath: _posts/2016-08-12-the-initial-page.md
 authors: []
-publisher: {}
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: the-initial-page/index.html
 _type: Article
