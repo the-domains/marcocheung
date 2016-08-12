@@ -1,7 +1,7 @@
 name: marcocheung
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 1
+layout_spectrum: 0.25586
+typography_spectrum: 0.91571
 title: grid-testing
 cta:
   domain: null
